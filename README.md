@@ -1,4 +1,4 @@
-# JCMC新闻写作风格指南 (qinjian-news-writing)
+# JCMC新闻写作风格指南 
 
 > Hermes Agent Skill — JCMC新闻写作风格指南
 
